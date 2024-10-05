@@ -1,17 +1,14 @@
 
-# Stock Market Web Game
+# Stock Market Game
 
-A simple stock market trading game where players can register, select a character, and trade stocks with each other.
+A multiplayer stock market game where users can register, choose a character, manage their stocks, and trade them on a public market.
 
 ## Features:
-- Register by entering your name.
-- Choose from 12 different characters with different starting money and stock amounts.
-- View and manage your stocks.
-- Buy and sell stocks on the open market.
+- User registration and character selection
+- Stock management (buy/sell stocks)
+- Public market to trade stocks with other players
 
-## How to Play:
-1. Enter your name and start the game.
-2. Choose a character.
-3. View your character's money and stocks.
-4. Visit the market to buy and sell stocks with other players.
-    
+## Setup
+1. Clone the repository.
+2. Open `index.html` in your browser to start the game.
+3. Enjoy!

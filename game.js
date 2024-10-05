@@ -3,7 +3,7 @@ const characters = [
     { name: "Warrior", money: 1000, stocks: 10 },
     { name: "Mage", money: 1200, stocks: 8 },
     { name: "Thief", money: 900, stocks: 12 },
-    // add more characters here...
+    // Add 12 characters
 ];
 
 const registrationScreen = document.querySelector('.registration');
@@ -80,4 +80,3 @@ document.getElementById('sellStocks').addEventListener('click', () => {
         alert('Invalid amount or price, or not enough stocks!');
     }
 });
-    

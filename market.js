@@ -44,4 +44,3 @@ function buyStock(stock) {
 }
 
 showMarket();
-    
